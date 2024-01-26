@@ -13,7 +13,7 @@ If you are a developer and want to keep every version of your code/project (whic
 
 ## Commands
 
-Set global username and email for Git (Locally).
+### Set global username and email for Git (Locally).
 
 ```sh
 git config --global user.name "<your username>"
@@ -63,7 +63,7 @@ Show the status of your Git respository
 git status
 ```
 
-Show the branches of your git repository
+### Show the branches of your git repository
 
 ```sh
 git branch
@@ -86,13 +86,12 @@ Remove a branch from Git
 ```sh
 git branch -d <branch name>
 ```
-Commnads for Branch Merge 
 
+### Commnads for Branch Merge 
 
 ```sh
 git merge <branch name>
 ```
-
 
 Show remote origin URL
 
@@ -100,7 +99,7 @@ Show remote origin URL
 git remote -v
 ```
 
-Add remote origin URL
+### Add remote origin URL
 
 ```sh
 git remote add origin <your remote git URL>
