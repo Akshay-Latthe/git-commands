@@ -86,6 +86,13 @@ Remove a branch from Git
 ```sh
 git branch -d <branch name>
 ```
+Commnads for Branch Merge 
+
+
+```sh
+git merge <branch name>
+```
+
 
 Show remote origin URL
 
